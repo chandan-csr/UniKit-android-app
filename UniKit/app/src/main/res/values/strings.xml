@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UniKit</string>
+    <string name="scientific_calculator">Scientific calculator</string>
+    <string name="days_ncounter">Days\nCounter</string>
+    <string name="scientific_ncalculator">Scientific\nCalculator</string>
+    <string name="converter">Converter</string>
+    <string name="translator">Translator</string>
+    <string name="notes">Notes</string>
+    <string name="text">text</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Languages">
+        <item>Kannada</item>
+        <item>Hindi</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+    </string-array>
+
+    <string name="firstvalue">0.0</string>
+    <string name="lastvalue">0.0</string>
+    <string name="selecteditem">Selected item:</string>
+    <string-array name="dropdown1">
+        <item>centimeters</item>
+        <item>meters</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+</resources>
